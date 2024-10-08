@@ -1,13 +1,16 @@
 # Hi there, I Am Kimmy! 👋
 
-<p align="right">
-  <img src="https://github.com/wanjikuKim-collab/wanjikuKim-collab/blob/main/My_potrait.png" />
-</p>
-
-# Bio 
-I am a software developer specializing in web development. I am experienced in other languages such as Rust, Ruby, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. Welcome to my world 🌏🗺⛰
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=wanjikuKim-collab)
+<div display= "flex flex-col">
+  <p align="left">
+    <img src="https://github.com/wanjikuKim-collab/wanjikuKim-collab/blob/main/My_potrait.png" />
+  </p>
+  
+  # Bio 
+  I am a software developer specializing in web development. I am experienced in other languages such as Rust, Ruby, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. Welcome to my world 🌏🗺⛰
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=wanjikuKim-collab)
+    
+</div>
 
 ## Github Stats
 
